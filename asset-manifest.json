@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Student-dashboard-ReactJs/static/css/main.64f87882.css",
+    "main.js": "/Student-dashboard-ReactJs/static/js/main.5758dde3.js",
+    "index.html": "/Student-dashboard-ReactJs/index.html",
+    "main.64f87882.css.map": "/Student-dashboard-ReactJs/static/css/main.64f87882.css.map",
+    "main.5758dde3.js.map": "/Student-dashboard-ReactJs/static/js/main.5758dde3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64f87882.css",
+    "static/js/main.5758dde3.js"
+  ]
+}
